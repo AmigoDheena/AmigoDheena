@@ -18,7 +18,7 @@
 <br />
 
 ---
-![Amigo Dheena's github stats](https://github-readme-stats.vercel.app/api?username=AmigoDheena&show_icons=true&theme=nightowl)
+![Amigo Dheena's github stats](https://github-readme-stats.vercel.app/api?username=AmigoDheena&show_icons=true&theme=light)
 
 
 

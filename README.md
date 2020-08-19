@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="fredwuz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" alt="AmigoDheena | Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/000000/twitter-circled.png" />][twitter]
+[<img align="left" alt="AmigoDheena | Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="AmigoDheena | Linkedin" width="22px" src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png" />][linkedin]
 
 <br />
 
@@ -23,3 +24,5 @@
 
 
 [twitter]: https://twitter.com/amigodheena
+[facebook]: https://www.facebook.com/amigodheena
+[linkedin]: https://linkedin.com/in/amigodheena

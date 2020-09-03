@@ -8,7 +8,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmigoDheena&repo=Amigo-Performance&theme=light)](https://github.com/AmigoDheena/Amigo-Performance)
 
 
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning Node.js
 
 ### Connect with me:
 

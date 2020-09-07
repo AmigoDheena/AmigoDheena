@@ -3,12 +3,10 @@
 
 ## I'm a Web Performance Specialist | PHP Developer
 
-- 🔭 I’m currently working on Wordpress Performance Plugin named Amigo Performance.!
+- 🚀 I've published a WordPress Plugin that is used to Optimize Website Performance and improve Site Score in services like Google Page Speed Insight, GTmetrix.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmigoDheena&repo=Amigo-Performance&theme=light)](https://github.com/AmigoDheena/Amigo-Performance)
 
-
-- 🌱 I’m currently learning Node.js
 
 ### Connect with me:
 

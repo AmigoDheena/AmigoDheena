@@ -5,7 +5,7 @@
 
 - 🚀 I've published a WordPress Plugin that is used to Optimize Website Performance and improve Site Score in services like Google Page Speed Insight, GTmetrix.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmigoDheena&repo=Amigo-Performance&theme=light)](https://github.com/We-Too-IT/Amigo-Performance)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=We-Too-IT&repo=Amigo-Performance&theme=light)](https://github.com/We-Too-IT/Amigo-Performance)
 
 
 ### Connect with me:

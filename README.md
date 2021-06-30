@@ -1,7 +1,7 @@
 ### Hi there, I'm Dheena 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/amigodheena?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2AmigoDheena&screen_name=Amigodheena)
 
-## I'm a Web Performance Specialist | PHP Developer
+## Web Performance Specialist | PHP Developer
 
 - 🚀 I've published a WordPress Plugin that is used to Optimize Website Performance and improve Site Score in services like Google Page Speed Insight, GTmetrix.
 

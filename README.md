@@ -1,25 +1,42 @@
-### Hi there, I'm Dheena 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/amigodheena?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2AmigoDheena&screen_name=Amigodheena)
+# Hi, I'm Dheena 👋
 
-## Web Performance Specialist
+[![Twitter Follow](https://img.shields.io/twitter/follow/amigodheena?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amigodheena)
 
-- 🚀 I've published a WordPress Plugin that is used to Optimize Website Performance and improve Site Score in services like Google Page Speed Insight, GTmetrix.
+## 🚀 Web Performance Specialist & Plugin Developer
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=We-Too-IT&repo=Amigo-Performance&theme=light)](https://github.com/We-Too-IT/Amigo-Performance)
+Welcome to my GitHub profile!  
+I'm passionate about improving website speed and optimizing user experience. I specialize in web performance and have published plugins to help WordPress users boost their site scores on platforms like Google PageSpeed Insights and GTmetrix.
 
+---
 
-### Connect with me:
+## 🎉 Featured Project: Amigo Performance Plugin
 
-[<img align="left" alt="AmigoDheena | Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/0366d6/twitter-circled.png" />][twitter]
-[<img align="left" alt="AmigoDheena | Facebook" width="22px" src="https://img.icons8.com/android/24/0366d6/facebook-new.png" />][facebook]
-[<img align="left" alt="AmigoDheena | Linkedin" width="22px" src="https://img.icons8.com/ios-filled/50/0366d6/linkedin-circled.png" />][linkedin]
+- **GitHub Repository:**  
+  [Amigo Performance Plugin on GitHub](https://github.com/AmigoDheena/Amigo-Performance)
 
-<br />
+- **WordPress Directory:**  
+  [Amigo Performance Plugin on WordPress.org](https://wordpress.org/plugins/amigo-performance/)
 
-<!-- ![Amigo Dheena's github stats](https://github-readme-stats.vercel.app/api?username=AmigoDheena&show_icons=true&theme=light) -->
+**What does it do?**  
+Optimize WordPress websites for speed and performance.  
+Boost your site scores on Google PageSpeed Insights and GTmetrix with this easy-to-use plugin.
 
+---
 
+## 📬 Connect with Me
 
-[twitter]: https://twitter.com/amigodheena
-[facebook]: https://www.facebook.com/amigodheena
-[linkedin]: https://linkedin.com/in/amigodheena
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/0366d6/twitter-circled.png" />](https://twitter.com/amigodheena)
+[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/0366d6/facebook-new.png" />](https://www.facebook.com/amigodheena)
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/0366d6/linkedin-circled.png" />](https://linkedin.com/in/amigodheena)
+
+<br/>
+
+<!--
+![Amigo Dheena's github stats](https://github-readme-stats.vercel.app/api?username=AmigoDheena&show_icons=true&theme=light)
+-->
+
+---
+
+```text
+Let's build faster, more efficient web experiences together!
+```

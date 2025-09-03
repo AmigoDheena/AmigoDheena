@@ -1,35 +1,62 @@
 # Hi, I'm Dheena 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amigodheena?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amigodheena)
 
-## 🚀 Web Performance Specialist & Plugin Developer
+## 🚀 WordPress Developer | Designer | Performance Specialist
 
-Welcome to my GitHub profile!  
-I'm passionate about improving website speed and optimizing user experience. I specialize in web performance and have published plugins to help WordPress users boost their site scores on platforms like Google PageSpeed Insights and GTmetrix.
+Welcome to my GitHub profile!
+
+I’m a passionate WordPress developer with expertise in designing, developing, and optimizing websites for speed, security, and user experience. My mission is to help businesses and creators get the most out of WordPress — whether through beautiful design, custom development, or performance tuning.
 
 ---
 
-## 🎉 Featured Project: Amigo Performance Plugin
+## 🛠️ What I Do
 
-- **GitHub Repository:**  
-  [Amigo Performance Plugin on GitHub](https://github.com/AmigoDheena/Amigo-Performance)
+- **WordPress Theme & Plugin Development:**  
+  Crafting custom solutions to extend WordPress functionality and meet unique needs.
 
+- **Website Design & UX:**  
+  Creating responsive, visually appealing, and user-friendly sites.
+
+- **Performance Optimization:**  
+  Making WordPress sites faster and more efficient for top scores on Google PageSpeed Insights and GTmetrix.
+
+- **Site Audits & Consulting:**  
+  Diagnosing bottlenecks and providing actionable recommendations for improvement.
+
+---
+
+## 🌟 Featured Project: Amigo Performance Plugin
+
+- **GitHub:**  
+  [Amigo Performance Plugin](https://github.com/AmigoDheena/Amigo-Performance)
 - **WordPress Directory:**  
-  [Amigo Performance Plugin on WordPress.org](https://wordpress.org/plugins/amigo-performance/)
+  [Amigo Performance Plugin](https://wordpress.org/plugins/amigo-performance/)
 
 **What does it do?**  
-Optimize WordPress websites for speed and performance.  
-Boost your site scores on Google PageSpeed Insights and GTmetrix with this easy-to-use plugin.
+Boosts WordPress site speed and performance with just a few clicks.  
+Helps you achieve higher scores on speed testing platforms and deliver a better user experience.
 
 ---
 
 ## 📬 Connect with Me
 
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/0366d6/twitter-circled.png" />](https://twitter.com/amigodheena)
-[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/0366d6/facebook-new.png" />](https://www.facebook.com/amigodheena)
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/0366d6/linkedin-circled.png" />](https://linkedin.com/in/amigodheena)
-
-<br/>
+<p align="left">
+  <a href="https://x.com/amigodheena" target="_blank">
+    <img alt="X" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v2.png" width="30" />
+  </a>
+  <a href="https://profiles.wordpress.org/amigodheena/" target="_blank">
+    <img alt="WordPress" src="https://img.icons8.com/ios-filled/50/21759B/wordpress.png" width="30" />
+  </a>
+  <a href="https://www.facebook.com/amigodheena" target="_blank">
+    <img alt="Facebook" src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/amigodheena/" target="_blank">
+    <img alt="LinkedIn" src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled.png" width="30" />
+  </a>
+  <a href="https://github.com/AmigoDheena" target="_blank">
+    <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" />
+  </a>
+</p>
 
 <!--
 ![Amigo Dheena's github stats](https://github-readme-stats.vercel.app/api?username=AmigoDheena&show_icons=true&theme=light)
@@ -38,5 +65,5 @@ Boost your site scores on Google PageSpeed Insights and GTmetrix with this easy-
 ---
 
 ```text
-Let's build faster, more efficient web experiences together!
+Let’s build secure, high-performing WordPress websites together!
 ```

@@ -1,40 +1,18 @@
 # Hi, I'm Dheena 👋
 
 
-## 🚀 WordPress Developer | Designer | Performance Specialist
+## WordPress Developer | Plugin Developer | Building Fast, Scalable Websites That Drive Results
 
 Welcome to my GitHub profile!
 
-I’m a passionate WordPress developer with expertise in designing, developing, and optimizing websites for speed, security, and user experience. My mission is to help businesses and creators get the most out of WordPress — whether through beautiful design, custom development, or performance tuning.
+I'm a WordPress Developer and PHP Specialist with 10+ years' experience building robust, scalable WordPress solutions. I focus on custom theme and plugin development, plugin architecture, Core PHP, and JavaScript-driven integrations, bringing deep knowledge of WordPress core and best practices to every project. As a published plugin author with two plugins in the official WordPress Plugin Directory, I deliver clean, maintainable, and extensible code. I also handle migrations, technical audits, REST API integrations, and WooCommerce customizations, working closely with clients to translate business requirements into reliable, production-ready sites and tools.
 
 ---
 
-## 🛠️ What I Do
+## 🌟 My WordPress Plugin
 
-- **WordPress Theme & Plugin Development:**  
-  Crafting custom solutions to extend WordPress functionality and meet unique needs.
-
-- **Website Design & UX:**  
-  Creating responsive, visually appealing, and user-friendly sites.
-
-- **Performance Optimization:**  
-  Making WordPress sites faster and more efficient for top scores on Google PageSpeed Insights and GTmetrix.
-
-- **Site Audits & Consulting:**  
-  Diagnosing bottlenecks and providing actionable recommendations for improvement.
-
----
-
-## 🌟 Featured Project: Amigo Performance Plugin
-
-- **GitHub:**  
-  [Amigo Performance Plugin](https://github.com/AmigoDheena/Amigo-Performance)
-- **WordPress Directory:**  
-  [Amigo Performance Plugin](https://wordpress.org/plugins/amigo-performance/)
-
-**What does it do?**  
-Boosts WordPress site speed and performance with just a few clicks.  
-Helps you achieve higher scores on speed testing platforms and deliver a better user experience.
+- [Amigo Performance Plugin](https://wordpress.org/plugins/amigo-performance/)
+- [Multi-Country Products Manager for WooCommerce](https://wordpress.org/plugins/multi-country-products-manager-for-woocommerce/)
 
 ---
 
